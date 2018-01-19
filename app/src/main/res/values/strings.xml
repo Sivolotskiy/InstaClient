@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InstaClient</string>
+    <string name="name">Name : 1$s</string>
+    <string name="description">Description :</string>
+    <string name="internet_connection_unavailable">Internet connection unavailable</string>
+    <string name="server_error">Server error</string>
+    <string name="lbl_reload">Reload</string>
+    <string name="tag">#%s</string>
+    <string name="simple_tag">#</string>
+    <string name="public_posts">%d public posts</string>
+    <string name="enter_tag">Enter tag name, like "travels"…</string>
+    <string name="warning">Warning</string>
+    <string name="ok">ok</string>
+    <string name="warning_text">The app is working only in Sandbox mode. If you want to see photos, please, enter hashtag like "travels" or "Kiev".</string>
+</resources>
